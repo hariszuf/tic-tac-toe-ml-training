@@ -324,8 +324,8 @@ int main(int argc, char *argv[]) {
     Instance test_data[MAX_INSTANCES];
     
     // Allow custom file paths from command line
-    const char *train_file = (argc > 1) ? argv[1] : "../dataset/processed/train.data";
-    const char *test_file = (argc > 2) ? argv[2] : "../dataset/processed/test.data";
+    const char *train_file = (argc > 1) ? argv[1] : "../dataset/processed/train_dataset.csv";
+    const char *test_file = (argc > 2) ? argv[2] : "../dataset/processed/test_dataset.csv";
     
     // Load datasets (auto-detects CSV or text format)
     printf("========================================\n");
