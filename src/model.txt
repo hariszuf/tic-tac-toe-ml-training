@@ -1,0 +1,78 @@
+========================================
+NAIVE BAYES MODEL
+========================================
+
+LABEL PROBABILITIES
+----------------------------------------
+Total labels: 2
+
+Label: y          P(Label) = 0.001000
+Label: 1          P(Label) = 0.999000
+
+
+FEATURE PROBABILITIES
+========================================
+
+Feature 0: (4 unique state-label pairs)
+----------------------------------------
+  State=x1    | Label=y          | P(State|Label) = 1.000000
+  State=0     | Label=1          | P(State|Label) = 0.376376
+  State=1     | Label=1          | P(State|Label) = 0.315315
+  State=2     | Label=1          | P(State|Label) = 0.308308
+
+Feature 1: (4 unique state-label pairs)
+----------------------------------------
+  State=x2    | Label=y          | P(State|Label) = 1.000000
+  State=0     | Label=1          | P(State|Label) = 0.375375
+  State=1     | Label=1          | P(State|Label) = 0.311311
+  State=2     | Label=1          | P(State|Label) = 0.313313
+
+Feature 2: (4 unique state-label pairs)
+----------------------------------------
+  State=x3    | Label=y          | P(State|Label) = 1.000000
+  State=0     | Label=1          | P(State|Label) = 0.378378
+  State=1     | Label=1          | P(State|Label) = 0.316316
+  State=2     | Label=1          | P(State|Label) = 0.305305
+
+Feature 3: (4 unique state-label pairs)
+----------------------------------------
+  State=x4    | Label=y          | P(State|Label) = 1.000000
+  State=0     | Label=1          | P(State|Label) = 0.376376
+  State=1     | Label=1          | P(State|Label) = 0.313313
+  State=2     | Label=1          | P(State|Label) = 0.310310
+
+Feature 4: (4 unique state-label pairs)
+----------------------------------------
+  State=x5    | Label=y          | P(State|Label) = 1.000000
+  State=0     | Label=1          | P(State|Label) = 0.384384
+  State=1     | Label=1          | P(State|Label) = 0.299299
+  State=2     | Label=1          | P(State|Label) = 0.316316
+
+Feature 5: (4 unique state-label pairs)
+----------------------------------------
+  State=x6    | Label=y          | P(State|Label) = 1.000000
+  State=0     | Label=1          | P(State|Label) = 0.412412
+  State=1     | Label=1          | P(State|Label) = 0.318318
+  State=2     | Label=1          | P(State|Label) = 0.269269
+
+Feature 6: (4 unique state-label pairs)
+----------------------------------------
+  State=x7    | Label=y          | P(State|Label) = 1.000000
+  State=0     | Label=1          | P(State|Label) = 0.504505
+  State=1     | Label=1          | P(State|Label) = 0.307307
+  State=2     | Label=1          | P(State|Label) = 0.188188
+
+Feature 7: (3 unique state-label pairs)
+----------------------------------------
+  State=x8    | Label=y          | P(State|Label) = 1.000000
+  State=0     | Label=1          | P(State|Label) = 0.678679
+  State=1     | Label=1          | P(State|Label) = 0.321321
+
+Feature 8: (2 unique state-label pairs)
+----------------------------------------
+  State=x9    | Label=y          | P(State|Label) = 1.000000
+  State=0     | Label=1          | P(State|Label) = 1.000000
+
+========================================
+END OF MODEL
+========================================
